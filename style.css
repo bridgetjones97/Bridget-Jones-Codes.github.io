@@ -1,0 +1,25 @@
+/* this is a comment */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+html{
+    font-family:"Poppins", sans serif;
+    box-sizing: border-box;
+    padding-left: 5%;
+}
+
+h1{
+    font-size: 3em;
+    font-weight: bold;
+    color: red;
+    text-align: centre;
+}
+#skills-list{
+   list-style: decimal leading zero;
+   color: white;
+}        
+
+body{
+    background-color: lightblue; 
+    background-image: linear-gradient(62 deg, lightblue 20%, lightpink 80%);
+}
