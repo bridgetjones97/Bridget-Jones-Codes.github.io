@@ -1,1 +1,1 @@
-# BRIDGET-JONES-CODES.github.io
+# bridget-jones-codes.github.io
